@@ -1,14 +1,20 @@
 {
-  "name": "urqa4node",
-  "version": "1.0.0",
+  "name": "UrQA-Nodejs-Plugin",
+  "version": "0.0.1",
   "description": "UrQA.io plugin for nodejs",
-  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/swmaestro6th-crashreport/UrQA-Nodejs-Plugin.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies" : {
     "stack-trace" : "*"
   },
-  "author": "Dainel Park",
+  "author": {
+    "name" : "Dainel Park",
+    "email" : "topbladep@gmail.com"
+  },
   "license": "MIT"
 }
