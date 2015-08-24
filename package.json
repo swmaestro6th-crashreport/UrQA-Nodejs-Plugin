@@ -1,6 +1,6 @@
 {
   "name": "urqa4node",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "UrQA.io plugin for nodejs",
   "repository": {
     "type": "git",
@@ -9,6 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "main": "./lib/UrQA.init",
   "dependencies" : {
     "stack-trace" : "*"
   },
