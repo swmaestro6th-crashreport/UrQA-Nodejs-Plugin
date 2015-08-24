@@ -1,4 +1,4 @@
-# UrQA-Nodejs-Plugin
+# urqa4node 
 UrQA.io for Node.js Plugin
 
 ## Getting Started
