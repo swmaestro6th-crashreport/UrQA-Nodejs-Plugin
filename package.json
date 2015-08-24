@@ -1,0 +1,14 @@
+{
+  "name": "urqa4node",
+  "version": "1.0.0",
+  "description": "UrQA.io plugin for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+    "stack-trace" : "*"
+  },
+  "author": "Dainel Park",
+  "license": "MIT"
+}
